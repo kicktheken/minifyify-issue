@@ -1,0 +1,9 @@
+{
+	"name": "minifyify-issue",
+	"version": "1.0",
+	"devDependencies": {
+		"browserify": "*",
+		"minifyify": "*"
+	},
+	"author": "Kenneth Chan"
+}
